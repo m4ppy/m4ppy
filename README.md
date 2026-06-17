@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 | [leetcode-notes](https://github.com/m4ppy/leetcode-notes)     | Personal problem-solving notes for LeetCode               | Algorithms, Data Structures, Python, Java, C |
 | [blog-platform](https://github.com/m4ppy/blog-platform)       | Blog platform project with additional TDD practice        | Spring Boot, Spring Security, JPA, TDD       |
 | [blog-platform-fe](https://github.com/m4ppy/blog-platform-fe) | Frontend project built while learning React               | React, Frontend, API Integration             |
-| [evention-backend](https://github.com/m4ppy/evention-backend) | Ticket management backend project focused on domain rules | Spring Boot, Domain Modeling, DDD            |
+| [evention-backend](https://github.com/m4ppy/evention-backend) | Ticket management system currently on developing          | Spring Boot, Domain Modeling, DDD            |
 | [10th-spring-boot](https://github.com/m4ppy/10th-spring-boot) | Forked repository for UMC Spring Boot study               | UMC, Spring Boot Study                       |
