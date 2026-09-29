@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 
 ## 📌 Featured Repositories
 
-| Repository | Description | Main Focus |
-|------------|-------------|------------|
-| [evention-backend](https://github.com/m4ppy/evention-backend) | Ticket management system with domain-first approach | Domain Modeling, DDD, TDD, Java |
-| [ai-code-reviewer](https://github.com/m4ppy/ai-code-reviewer) | RAG-powered AI code review application | RAG, LLM, FastAPI, Flask, Python |
-| [blog-platform](https://github.com/m4ppy/blog-platform) | Blog platform project with additional TDD practice | Spring Boot, Spring Security, JPA, TDD |
-| [restaurant-review-platform](https://github.com/m4ppy/restaurant-review-platform) | Restaurant review platform built through clone coding | Spring Boot, Elasticsearch, Docker |
-| [leetcode-notes](https://github.com/m4ppy/leetcode-notes) | Personal problem-solving notes for LeetCode | Algorithms, Data Structures, Python, Java, C |
-| [blog-platform-fe](https://github.com/m4ppy/blog-platform-fe) | Frontend project built while learning React | React, Frontend, API Integration |
-| [10th-spring-boot](https://github.com/m4ppy/10th-spring-boot) | Forked repository for UMC Spring Boot study | UMC, Spring Boot Study |
+| Repository | Description | Type |
+| --- | --- | --- |
+| [**leetcode-notes**](https://github.com/m4ppy/leetcode-notes) | algorithms & data structures problem solving for leetcode | DS&A |
+| [**smart-glasses-vision-research**](https://github.com/m4ppy/smart-glasses-vision-research) | computer vision research for smart glasses | research |
+| **voca-platform** *(upcoming)* | vocabulary learning web platform | full stack |
+| [**OMO-BE**](https://github.com/OMO-team/OMO-BE) | backend for the [OMO](https://github.com/OMO-team) team project | backend |
+| [**evention-backend**](https://github.com/m4ppy/evention-backend) | ticket management system | backend |
+| [**blog-platform**](https://github.com/m4ppy/blog-platform) | spring boot backend blog platform | backend |
+| [**blog-platform-fe**](https://github.com/m4ppy/blog-platform-fe) | react frontend project | frontend |
