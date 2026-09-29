@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 | Repository | Description | Type |
 | --- | --- | --- |
-| [**leetcode-notes**](https://github.com/m4ppy/leetcode-notes) | algorithms & data structures problem solving for leetcode | DS&A |
+| [**leetcode-notes**](https://github.com/m4ppy/leetcode-notes) | algorithms & data structures problem solving for leetcode | algorithms |
 | [**smart-glasses-vision-research**](https://github.com/m4ppy/smart-glasses-vision-research) | computer vision research for smart glasses | research |
 | **voca-platform** *(upcoming)* | vocabulary learning web platform | full stack |
 | [**OMO-BE**](https://github.com/OMO-team/OMO-BE) | backend for the [OMO](https://github.com/OMO-team) team project | backend |
